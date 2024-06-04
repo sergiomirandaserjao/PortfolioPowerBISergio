@@ -1,6 +1,6 @@
 # Portfólio Power BI  Sérgio Miranda
 
-Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
+Dashboards elaborados na ferramenta Power BI, visando construir um portfólio com cenários da atualidade.
 
 - [Dashboard Financeiro](https://github.com/NadiaaOliverr/Portfolio-Power-BI/tree/main/Dashboard%20Financeiro)
 - [Dashboard de Logística - V1](https://github.com/NadiaaOliverr/Portfolio-Power-BI/tree/main/Dashboard%20Log%C3%ADstica%20-%20V1)
@@ -9,7 +9,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 - [Dashboard de Produção](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Produ%C3%A7%C3%A3o)
 - [Dashboard de Vendas](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Vendas)
 
-### Dashboard Financeiro
+### 1) Dashboard Financeiro
 
 ![Gif que exemplifica o funcionando do Dashboard Financeiro](https://i.imgur.com/lZW7rfJ.gif)
 
@@ -34,7 +34,7 @@ Nenhuma nova coluna foi criada a partir dos dados.
 **Quantidade de dados: 2.725** 
 
 
-### Dashboard de Logística - V1
+### 2)  Dashboard de Logística - V1
 
 ![Gif que exemplifica o funcionando do dashboard de Logística](https://i.imgur.com/ICBtVVR.gif)
 
@@ -73,7 +73,7 @@ Colunas criadas a partir dos dados:
 
 **Quantidade total dos dados: 23.888** 
 
-### Dashboard de Logística - V2
+### 3)  Dashboard de Logística - V2
 
 ![Gif que exemplifica o funcionando do dashboard Logística](https://i.imgur.com/L9VI3fl.gif)
 
@@ -102,7 +102,7 @@ Colunas criadas a partir dos dados:
 
 **Quantidade total dos dados: 4.282** 
 
-### Dashboard de RH
+### 4) Dashboard de RH
 
 ![Gif que exemplifica o funcionando do dashboard de RH](https://i.imgur.com/YUPUzbN.gif)
 
@@ -131,7 +131,7 @@ Colunas criadas a partir dos dados:
 
 **Quantidade de dados: 234** 
 
-### Dashboard de Produção
+### 5) Dashboard de Produção
 
 ![Gif que exemplifica o funcionando do dashboard de Produção](https://i.imgur.com/ma2ezFI.gif)
 
@@ -156,7 +156,7 @@ Colunas criadas a partir dos dados:
 **Quantidade de dados: 31617** 
 
 
-### Dashboard de Vendas
+### 5) Dashboard de Vendas
 
 ![Gif que exemplifica o funcionando do Dashboard de Vendas](https://i.imgur.com/19mRZpY.gif)
 
